@@ -1,7 +1,7 @@
 {
     "pokar_de_vender": {
-      "code": 402,
-      "message": "Payment Required"
+      "code": 200,
+      "message": "OK"
     },
     "kmb_rodas_e_rodizios": {
       "code": 200,
